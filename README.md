@@ -1,4 +1,6 @@
 <h1>osTicketing-Configuration</h1>
+ <p align="center">
+    <img src="https://i.imgur.com/Clzj7Xs.png" alt=osTicket logo"/>
 <h2>Congrats you got osTicket working, lets continue with the set up:</h2><br>
 <b>Step 1:</b> configure roles <br>
 <b>Step 2:</b> configure departments <br> 
