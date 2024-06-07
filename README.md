@@ -2,7 +2,7 @@
  <p align="center">
     <img src="https://i.imgur.com/Clzj7Xs.png" alt=osTicket logo"/>
 <h2>Congrats you got osTicket working, lets continue with the set up:</h2><br>
-  (youtube video here)
+  (youtube video here)<br>
 <b>Step 1:</b> configure roles <br>
 <b>Step 2:</b> configure departments <br> 
 <b>Step 3:</b> configure teams <br>
